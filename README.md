@@ -1,5 +1,6 @@
 # introduction
 a collection of onedrive-based websites via oneManage or oneIndex
+收集了一些使用oneManage-php和oneIndex搭建的onedrive文件共享网站。
 
 # List
 ## 以下为基于逸笙oneManage搭建的onedrive云盘管理网站：
